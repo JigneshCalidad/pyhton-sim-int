@@ -1,0 +1,29 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor settings
+.VSCodeCounter/
+.idea/
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Logs and app data
+*.log
+journal_entries.txt
+
+# Project-specific generated files
+*.sqlite3
+
